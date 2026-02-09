@@ -1,5 +1,5 @@
-run command : npm run start
-seed command: npm run seed
+run command : npm run start - 
+seed command: npm run seed -
 
 env variables to set
 
